@@ -1,2 +1,2 @@
 # ceci-central
-Curated repository of ceci pipeline stages
+Curated repository of [ceci](https://github.com/LSSTDESC/ceci) pipeline stages.
